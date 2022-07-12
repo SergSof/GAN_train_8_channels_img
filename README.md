@@ -1,1 +1,1 @@
-# predict_8_chanall
+# predict_8_channel
