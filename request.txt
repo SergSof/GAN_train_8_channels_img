@@ -1,0 +1,14 @@
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+C:/Users/Lenovo/AppData/Local/Programs/Python/Python310
+
+opencv-python 4.6.0.66
+pip install opencv-python
+
+keras 2.9.0
+pip install keras
+
+matplotlib 3.5.2
+pip install matplotlib
+
+
+
