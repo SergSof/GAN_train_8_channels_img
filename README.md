@@ -21,5 +21,3 @@
 https://github.com/SergSof/GAN_train_8_channels_img/assets/68720384/6d1b6da3-6a6f-45b9-80f8-2f2b8bf9d3a0
 
 
-
-https://drive.google.com/file/d/1ibfiZ0TUvAK7_9WkaLRIRTF-w7Z68qc_/view?usp=share_link
