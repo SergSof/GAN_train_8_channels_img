@@ -22,6 +22,9 @@
 https://github.com/SergSof/GAN_train_8_channels_img/assets/68720384/6d1b6da3-6a6f-45b9-80f8-2f2b8bf9d3a0
 
 Colab, train GAN
+
 https://colab.research.google.com/drive/1zIBuIUVCyfvQZr4zMtGKkdoqdyOy6my0?usp=sharing
+
 Colab, predict GAN
+
 https://colab.research.google.com/drive/1MykwPe7ul2WUidAqZkdft8BGPhr7KuHX?usp=sharing
